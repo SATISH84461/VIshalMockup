@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Cafe 1",
+    "description": "Description of Cafe 1.",
+    "image":
+      "https://content.jdmagicbox.com/comp/surat/r4/0261px261.x261.230912011840.y4r4/catalogue/fenster-cafe-katargam-surat-coffee-shops-3rJxUw4TQz.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 2",
+    "description": "Description of Cafe 2.",
+    "image":
+      "https://hotelnarainniwas.com/wp-content/uploads/2024/11/DSCF4167.jpg",
+    "rating": 4.5,
+    "location": "456 Elm St, Cityville",
+    "contact": "234-567-8901",
+    "hours": "10 AM - 8 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 3",
+    "description": "Description of Cafe 3.",
+    "image":
+      "https://content.jdmagicbox.com/comp/pune/j4/020pxx20.xx20.200919060908.a1j4/catalogue/cafe-love-birds-chinchwad-east-pune-fast-food-wccsy3a04d.jpg",
+    "rating": 4.5,
+    "location": "789 Oak St, Cityville",
+    "contact": "345-678-9012",
+    "hours": "8 AM - 10 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 4",
+    "description": "Description of Cafe 4.",
+    "image":
+      "https://powaimetro.com/wp-content/uploads/2024/05/cafe-image.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 5",
+    "description": "Description of Cafe 5.",
+    "image":
+      "https://studiobluora.com/blog/wp-content/uploads/2024/09/2.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 6",
+    "description": "Description of Cafe 6.",
+    "image":
+      "https://b.zmtcdn.com/data/pictures/0/21421670/d448c2abcc1f095412ac3eadb9648039_featured_v2.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 7",
+    "description": "Description of Cafe 7.",
+    "image":
+      "https://i.pinimg.com/736x/0c/2c/fd/0c2cfd5913199cfa54aa8c5ef667b2c2.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 8",
+    "description": "Description of Cafe 8.",
+    "image":
+      "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_851,h_451/https://www.orientbell.com/blog/wp-content/uploads/2024/03/850x450-Pix_7-3.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 9",
+    "description": "Description of Cafe 9.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XjEF651jKmdz6qErpLqc5LXx9EAi3tMHnw&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  {
+    "name": "Cafe 10",
+    "description": "Description of Cafe 10.",
+    "image":
+      "https://thearchitectsdiary.com/wp-content/uploads/2024/02/Types-of-cafe-01-jpg.webp",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Cafe"]
+  },
+  
+  {
+    "name": "Restaurants 1",
+    "description": "Description of Restaurants 1.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 2",
+    "description": "Description of Restaurants 2.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "456 Elm St, Cityville",
+    "contact": "234-567-8901",
+    "hours": "10 AM - 8 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 3",
+    "description": "Description of Restaurants 3.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "789 Oak St, Cityville",
+    "contact": "345-678-9012",
+    "hours": "8 AM - 10 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 4",
+    "description": "Description of Restaurants 4.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 5",
+    "description": "Description of Restaurants 5.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 6",
+    "description": "Description of Restaurants 6.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 7",
+    "description": "Description of Restaurants 7.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 8",
+    "description": "Description of Restaurants 8.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 9",
+    "description": "Description of Restaurants 9.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  {
+    "name": "Restaurants 10",
+    "description": "Description of Restaurants 10.",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C6gnO2t0jYBG3hfn7mCGH2f_vZZk3Arx2g&s",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Restaurants"]
+  },
+  
+  {
+    "name": "Kamala Nehru Park, Pune K a m a l a N e h r u Park, Pune",
+    "description": "Located in Erandwane in Pune, Kamala Nehru Park is one of the most green and beautiful gardens in the city. Blooming with a variety of vibrant flowers and bushes, the garden is ideal for early morning and evening walks. Besides, it has several artistic sculptures installed in the park which make the place look even prettier.",
+    "image":
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/aa/36/3d/pu-la-deshpande-garden.jpg?w=500&h=500&s=1",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 2",
+    "description": "Description of Parks 2.",
+    "image":
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/97/73/07/photo4jpg.jpg?w=500&h=500&s=1",
+    "rating": 4.5,
+    "location": "456 Elm St, Cityville",
+    "contact": "234-567-8901",
+    "hours": "10 AM - 8 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 3",
+    "description": "Description of Parks 3.",
+    "image":
+      "https://thumbs.dreamstime.com/b/beautiful-spring-flowers-near-pond-keukenhof-park-netherlands-holland-68156758.jpg",
+    "rating": 4.5,
+    "location": "789 Oak St, Cityville",
+    "contact": "345-678-9012",
+    "hours": "8 AM - 10 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 4",
+    "description": "Description of Parks 4.",
+    "image":
+      "https://static.toiimg.com/photo/msid-92500151,width-96,height-65.cms",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 5",
+    "description": "Description of Parks 5.",
+    "image":
+      "https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 6",
+    "description": "Description of Parks 6.",
+    "image":
+      "https://thumbs.dreamstime.com/b/beautiful-manicured-lawn-summer-garden-border-bright-colourful-flowering-shrubs-trees-32424569.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 7",
+    "description": "Description of Parks 7.",
+    "image":
+      "https://static.vecteezy.com/system/resources/thumbnails/039/271/864/small/ai-generated-beautiful-bright-background-of-a-summer-garden-with-a-flowering-rose-bush-free-photo.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 8",
+    "description": "Description of Parks 8.",
+    "image":
+      "https://static.vecteezy.com/system/resources/thumbnails/055/876/232/small/in-a-lush-spring-environment-a-wooden-podium-stands-amidst-a-colorful-array-of-blooming-flowers-sunlight-filters-through-the-trees-enhancing-the-enchanting-atmosphere-of-the-garden-photo.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 9",
+    "description": "Description of Parks 9.",
+    "image":
+      "https://t4.ftcdn.net/jpg/06/53/83/19/360_F_653831943_H1UJSVo7BNrkUhbILQ2f2G7sfh5cC6am.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  },
+  {
+    "name": "Parks 10",
+    "description": "Description of Parks 10.",
+    "image":
+      "https://t3.ftcdn.net/jpg/01/59/48/58/360_F_159485891_2BAJ56o5UcbA0RG5TaUw7fcclmHv0qvt.jpg",
+    "rating": 4.5,
+    "location": "123 Main St, Cityville",
+    "contact": "123-456-7890",
+    "hours": "9 AM - 9 PM",
+    "type": ["Parks"]
+  }
+]
